@@ -1,0 +1,6 @@
+{
+    "enable_title": true,
+    "icon": "\ud83d\udcda",
+    "title_color": "#FF0000",
+    "title_format": "{profile} - Anki - {icon} {deck}"
+}
