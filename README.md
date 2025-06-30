@@ -86,12 +86,3 @@ Decktitle/
 📚 💡 🚀 🧠 🔥 ✅ ✨ ⏱️ 📝 🎯
 
 ---
-
-## 📬 Góp ý – nâng cấp
-
-Bạn có thể đề xuất thêm:
-- Hiển thị thời gian học
-- Đếm số thẻ đang học
-- Hiển thị tổng số deck hoặc tên gói học
-
----
